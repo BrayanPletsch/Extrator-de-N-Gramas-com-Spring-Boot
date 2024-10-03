@@ -236,7 +236,7 @@ Cada serviço segue um fluxo semelhante:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/ngram-extractor.git
+   git clone https://github.com/BrayanPletsch/Extrator-de-N-Gramas-com-Spring-Boot.git
    cd ngram-extractor
    ```
 
